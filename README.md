@@ -17,15 +17,15 @@ Biological recorders and other contributors play a vital role in providing biodi
 
 Here the ideas are grouped by project. Within each project page you will find a readme with project background (motivation, design process)
 
-#### TSDA (2025)
+### TSDA (2025)
 
 A large-scale experiment (500-1000 participants) to test the effectiveness of personalised feedback in influencing recorder behaviour.
 
-#### PoMS personalised feedback trial (2024)
+### PoMS personalised feedback trial (2024)
 
 A small scale demonstrator of recorder feedback to a semi-structured monitoring scheme (timed counts).
 
-#### MyDECIDE (2021)
+### MyDECIDE (2021)
 
 A large scale experiement (850 participants) 
 
