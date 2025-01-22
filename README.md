@@ -1,6 +1,10 @@
+![](https://github.com/BiologicalRecordsCentre/recorder-feedback/blob/main/Recorder%20feedback%20logo_small.png?raw=true)  
+
 # Recorder Feedback Repository
 
-Welcome to the **Recorder Feedback Repository**! This site provides resources, templates, and ideas to help you design effective personalised feedback systems that improve engagement, data quality, and targeted data collection. Whether you're working with biological recorders, managing data projects, or exploring feedback in other contexts, you'll find valuable tools here.
+Part of the Recorder Feedback system: https://github.com/BiologicalRecordsCentre/recorder-feedback
+
+Welcome to the **Recorder Feedback Repository**! This site provides resources, templates, and ideas to help you design effective personalised feedback systems that improve engagement, data quality, and targeted data collection.
 
 ## About This Repository
 
@@ -9,13 +13,9 @@ Biological recorders and other contributors play a vital role in providing biodi
 - **Improve Data Quality**: Offer constructive feedback to refine contributions.  
 - **Target Data Collection**: Nudge recorders toward areas or species of greatest need.
 
-## Links to other content
-
- * Recorder feedback codebase
-
 ## Projects
 
-Here the ideas are grouped by project. Within each project page you will find a readme with project background (motivation, design process)
+Here the ideas are grouped by project. Within each project page you will find a readme with project background (motivation, design process) and then any content derived from the project.
 
 ### TSDA (2025)
 
@@ -30,6 +30,8 @@ A small scale demonstrator of recorder feedback to a semi-structured monitoring 
 A large scale experiement (850 participants) 
 
 ## Prototypes and ideas
+
+Here we can capture content in early stages of development.
 
 ### Outputs from TEPoP workshop (November 2024)
 
