@@ -52,8 +52,8 @@ Early implementations
 Four data stories, each with a personalised and non-personalised version. The identity of the recorder has been removed from the email content. The format is HTML.
 
  * Great find
-   * Personalised:
-   * Non-personalised:
+   * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/great_find_personalised.html) 
+   * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/great_find_non_personalised.html) 
  * Extra mile
    * Personalised:
    * Non-personalised:
