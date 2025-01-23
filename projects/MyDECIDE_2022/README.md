@@ -32,6 +32,11 @@ The primary objective of the feedback was to drive traffic to the recorder app t
  * These sketches were distilled into six design dimensions across two categories: methods of persuasion (Purpose, Social Mechanism, Temporality) and content dimensions (geographic, temporal, and taxonomic scope). From these, eight viable concepts were identified and refined through co-design workshops with citizen scientists. 
  * Four data stories were selected for further development, chosen for their engagement potential, diversity, and alignment with the design dimensions. These were iteratively refined.
 
+## Challenges and lessons learnt
+
+ * We initially strugged to get sign-up numbers we wanted but then the use of warm contacts via directly emailing iRecord users resulted in a big increase in sign-ups.
+ * Efficient code is important when you have many participants. If each data story takes 3-5 minutes to generate then the generation time increases linearly with the number of sign-ups unless you can parallelise the generation code.
+
 ## Tech stack
 
  * R and R markdown - for data processing and generating the content
@@ -41,7 +46,7 @@ The primary objective of the feedback was to drive traffic to the recorder app t
 
 ### Concepts
 
- * A set of 8 personalised feedback visualisation concepts produced by the project team
+ * [A set of 8 personalised feedback visualisation concepts produced by the project team](https://github.com/BiologicalRecordsCentre/recorder-feedback-repository/blob/main/projects/MyDECIDE_2022/concepts/MyDECIDE%20personalised%20feedback%20visualisation%20concepts.pdf)
 
 ### Prototypes
 
