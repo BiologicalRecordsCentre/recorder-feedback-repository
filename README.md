@@ -25,9 +25,9 @@ A large-scale experiment (500-1000 participants) to test the effectiveness of pe
 
 A small scale demonstrator of recorder feedback to a semi-structured monitoring scheme (timed counts).
 
-### MyDECIDE (2022)
+### [MyDECIDE (2022)](https://github.com/BiologicalRecordsCentre/recorder-feedback-repository/tree/main/projects/MyDECIDE_2022)
 
-A large scale experiement (850 participants) 
+MyDECIDE was a component of the broader DECIDE project, which aimed to improve biological recording by encouraging recorders to sample high-priority locations identified via species distribution models. The DECIDE Recorder Tool, a web application, guided users to areas in Great Britain where butterfly and moth recording would be most valuable. MyDECIDE complemented this by sending personalised or generalised data-driven emails (‘data stories’) to participants, tailored to their recording history and motivations, to enhance engagement and encourage use of the Tool. An experiement with ~850 participants.
 
 ## Prototypes and ideas
 
