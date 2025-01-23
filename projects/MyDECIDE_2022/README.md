@@ -55,8 +55,8 @@ Four data stories, each with a personalised and non-personalised version. The id
    * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/great_find_personalised.html) 
    * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/great_find_non_personalised.html) 
  * Extra mile
-   * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/extra-mile_personalised.html) 
-   * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/extra-mile_non_personalised.html) 
+   * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/extra_mile_personalised.html) 
+   * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/extra_mile_non_personalised.html) 
  * Community
    * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/community_personalised.html) 
    * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/community_non_personalised.html) 
