@@ -55,15 +55,15 @@ Four data stories, each with a personalised and non-personalised version. The id
    * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/great_find_personalised.html) 
    * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/great_find_non_personalised.html) 
  * Extra mile
-   * Personalised:
-   * Non-personalised:
+   * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/extra-mile_personalised.html) 
+   * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/extra-mile_non_personalised.html) 
  * Community
-   * Personalised:
-   * Non-personalised:
+   * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/community_personalised.html) 
+   * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/community_non_personalised.html) 
  * Impact
-   * Personalised:
-   * Non-personalised:
- * Control email:
+   * [Personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/impact_personalised.html) 
+   * [Non-personalised](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/impact_non_personalised.html) 
+ * [Control email](https://biologicalrecordscentre.github.io/recorder-feedback-repository/projects/MyDECIDE_2022/implementations/control_email.html) 
 
 ### Code
 
