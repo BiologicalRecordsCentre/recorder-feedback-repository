@@ -21,7 +21,7 @@ Here the ideas are grouped by project. Within each project page you will find a 
 
 A large-scale experiment (500-1000 participants) to test the effectiveness of personalised feedback in influencing recorder behaviour.
 
-### PoMS personalised feedback trial (2024)
+### [PoMS personalised feedback trial (2024)](https://github.com/BiologicalRecordsCentre/recorder-feedback-repository/tree/main/projects/PoMS_2024)
 
 A small scale demonstrator of recorder feedback to a semi-structured monitoring scheme (timed counts).
 

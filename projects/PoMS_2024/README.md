@@ -45,17 +45,18 @@ We also considered possible adverse impacts we wanted to avoid:
 
 ## Challenges and lessons learnt
 
-What were the main issues you encountered doing this work and how to did overcome them, or what would you do differently?
+ * PoMS data is different to unstructured monitoring like biological recording, the the same code could easily be adapted to work this with data type.
+ * Demand for not individual-based feedback but feedback on a project (e.g. a local "friends of" group), might need some further development to deliver this.
 
 ## Tech stack
 
- * Recorder feedback extensible R code: https://github.com/BiologicalRecordsCentre/recorder-feedback-content
+ * This was made using the recorder feedback extensible R code: https://github.com/BiologicalRecordsCentre/recorder-feedback-content
 
 ## Included content
 
 ### Concepts
 
- * [5 data story concepts from internal ideation workshop](https://github.com/BiologicalRecordsCentre/recorder-feedback-repository/tree/main/projects/PoMS_2024/concepts/UK_PoMS_Demonstrator_concepts.pdf)
+ * [5 data story concepts from internal ideation workshop](https://github.com/BiologicalRecordsCentre/recorder-feedback-repository/blob/main/projects/PoMS_2024/concepts/UK%20PoMS%20Demonstrator%20concepts.pdf)
 
 ### Implementations
 
